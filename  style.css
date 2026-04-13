@@ -1,1 +1,12 @@
-minions
+.minions{
+    color:blue;
+}
+
+.galeria{
+    width: 100%;
+}
+
+body{
+    background-color: aliceblue;
+    color: aquamarine;
+}
