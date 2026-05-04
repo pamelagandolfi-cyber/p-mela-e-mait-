@@ -9,4 +9,7 @@
 body{
     background-color: aliceblue;
     color: aquamarine;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
 }
