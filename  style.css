@@ -13,3 +13,16 @@ body{
     align-items: center;
     justify-content: space-around;
 }
+
+.links{
+    display: flex;
+    flex-direction: column;
+}
+
+a{
+    margin: 20px;
+    padding: 20px;
+    background-color: aliceblue;
+    color: black;
+    border-radius: 20px;
+}
